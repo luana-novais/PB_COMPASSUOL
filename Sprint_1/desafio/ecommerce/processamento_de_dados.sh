@@ -13,7 +13,8 @@ mkdir -p /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/bac
 DATA=$(date +%Y%m%d)
 
 # Cópia do arquivo para o diretório de backup com a data atual
-cp /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/dados_de_vendas.csv /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/dados-$DATA.csv
+# Usando caminho relativo
+cp vendas/dados_de_vendas.csv vendas/backup/dados-$DATA.csv
 
 # Renomeação do arquivo no backup
 mv /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/dados-$DATA.csv /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv
@@ -32,8 +33,10 @@ echo "Quantidade total de itens diferentes vendidos: $quantidade_itens" >> /home
 # Adição das primeiras 10 linhas do CSV ao relatório
 head -n 10 /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv >> /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/relatorio.txt
 
+cd /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup
+
 # Compressão do arquivo CSV
-zip /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.zip /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv
+zip backup-dados-$DATA.zip backup-dados-$DATA.csv
 
 # Remoção dos arquivos originais
 rm /home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv
