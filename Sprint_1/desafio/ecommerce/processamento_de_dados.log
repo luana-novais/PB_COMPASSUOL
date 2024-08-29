@@ -9,3 +9,5 @@ zip error: Nothing to do! (backup-dados-20240827.zip)
 rm: cannot remove '/home/luana/trainee-repo-template/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-20240827.csv': No such file or directory
 updating: backup-dados-20240827.csv (deflated 55%)
 updating: backup-dados-20240827.csv (deflated 55%)
+  adding: backup-dados-20240828.csv (deflated 55%)
+updating: backup-dados-20240828.csv (deflated 55%)

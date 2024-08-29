@@ -1,11 +1,10 @@
-<h1 style="text-align: center; color: #8FBC8F;">Olá, bem-vindo(a) ☺️ </h1>
-<h2 style="text-align: center; color: #FFB7C5;">Sou a Luana Novais 👩‍💻</h2>
+<h1 align="center">Olá, bem-vindo(a) ☺️ </h1>
+<h2 align= "center">Sou a Luana Novais 👩‍💻</h2>
 
 <p align="center">
   <img src='imagens/luana.jpg' alt="Foto da Luana Novais" width="200px" />
 </p>
 
-<hr style="border: none; height: 2px; background-color: #FFB7C5;">
 
 - 🏠 **Residência:** Presidente Prudente - SP
 - 👩‍🎓 **Instituição de Ensino:** FATEC Presidente Prudente
@@ -16,9 +15,9 @@
 - 🧠 **Experiência:** Gestão de Projetos, metodologias Lean Six Sigma, Design Thinking, Kanban e Trello.
 - 🖥️ **Conhecimento:** Python, Power BI, Excel, HTML e CSS
 
-<hr style="border: none; height: 2px; background-color: #FFB7C5;">
 
-<h3 style="color: #8FBC8F;">📘 Aprendizados durante o PB</h3>
+
+## 📘 Aprendizados durante o PB
 
 #### **Linux:**
 
@@ -35,24 +34,22 @@
   Aprendi o que é um controle de versionamento e que o Git é o sistema mais utilizado mundialmente. Permite você gerenciar e acompanhar as mudanças em arquivos de código-fonte ao longo do tempo e também que vários desenvolvedores trabalhem no mesmo projeto simultaneamente, facilitando a colaboração. Os principais comandos são o <strong>init</strong> (inicia o repositório), <strong>add</strong> (adiciona o arquivo), <strong>commit</strong> (escreve uma mensagem das alterações), <strong>push</strong> (envia as alterações para o repo remoto). O GitHub é uma plataforma de hospedagem que utiliza o Git para controle de versão.
 </p>
 
-<hr style="border: none; height: 2px; background-color: #FFB7C5;">
 
-<h3 style="color: #8FBC8F;">🚀 Sprints</h3>
+## 🚀 Sprints</h3>
 
 - [Sprint 1](./Sprint_1/README.md)
+- [Sprint 2](./Sprint_2/README.md)
+- [Sprint 3](./Sprint_3/README.md)
+- [Sprint 4](./Sprint_4/README.md)
+- [Sprint 5](./Sprint_5/README.md)
+- [Sprint 6](./Sprint_6/README.md)
+- [Sprint 7](./Sprint_7/README.md)
+- [Sprint 8](./Sprint_8/README.md)
+- [Sprint 9](./Sprint_9/README.md)
+- [Sprint 10](./Sprint_10/README.md)
 
-<hr style="border: none; height: 2px; background-color: #FFB7C5;">
 
-<h3 style="color: #8FBC8F;">📍 Onde me encontrar?</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luana-novais/">
-    <img src="https://img.shields.io/badge/-Luana_Novais-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.link/bvmhll">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:luaana.novais@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+## 📍 Onde me encontrar?
+
+[![LinkedIn](https://img.shields.io/badge/-Luana_Novais-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luana-novais/)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/bvmhll) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:luaana.novais@gmail.com)
