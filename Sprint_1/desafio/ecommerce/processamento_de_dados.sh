@@ -3,7 +3,7 @@
 # Criação do diretório vendas
 mkdir -p /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas
 
-# Cópia do arquivo de vendas
+# Cópia do arquivo dados_de_vendas
 cp /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/dados_de_vendas.csv /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/
 
 # Criação do subdiretório backup
@@ -22,7 +22,7 @@ mv /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/dados-$D
 data_sistema=$(date +"%Y/%m/%d %H:%M")
 primeira_data=$(tail -n +2 /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv | head -n 1 | cut -d ',' -f 5)
 ultima_data=$(tail -n 1 /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv | cut -d ',' -f 5)
-quantidade_itens=$(cut -d ',' -f 3 /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv | sort | uniq | wc -l)
+quantidade_itens=$(cut -d ',' -f 2 /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/backup-dados-$DATA.csv | sort | uniq | wc -l)
 
 echo "Data do sistema operacional: $data_sistema" > /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/relatorio-$DATA.txt
 echo "Data do primeiro registro de venda: $primeira_data" >> /home/luana/PB_LUANA_NOVAIS/Sprint_1/desafio/ecommerce/vendas/backup/relatorio-$DATA.txt
