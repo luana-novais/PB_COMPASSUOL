@@ -53,6 +53,12 @@ Os principais tipos de modelagem dimensional são:
     <li><strong>Modelo em Floco de Neve:</strong> Uma estrutura onde a tabela de fato é associada a tabelas de dimensões que podem, por sua vez, estar relacionadas a outras tabelas de dimensões. Esse modelo reflete uma abordagem mais normalizada.</li>
 </ul>
 
+# AWS Skill Builder - AWS Partner: Sales Accreditation (Business) 
+<p align= "justify"> O curso começa com uma introdução aos conceitos de computação em nuvem e aos serviços oferecidos pela AWS, explicando como a AWS se destaca em relação a outras soluções, principalmente pela sua capacidade de escalar recursos, oferecer economia de custos e apoiar a transformação digital das empresas.
+Em seguida, o curso aborda o valor comercial da AWS, detalhando como a AWS pode gerar economia, aumentar a produtividade da equipe, melhorar a resiliência operacional e oferecer agilidade empresarial. Esses aspectos são explorados por meio do AWS Cloud Value Framework, que ajuda a entender os benefícios financeiros e operacionais da nuvem.
+Depois, o curso foca nas objeções comuns à adoção da nuvem, como preocupações com custos, segurança, conformidade, e a perda de controle. Também trata de como lidar com questões relacionadas à infraestrutura atual, déficits de habilidades e possíveis problemas com o atrelamento a um único fornecedor. Além disso, aborda a questão da sustentabilidade e como a AWS está trabalhando para minimizar seu impacto ambiental.
+O curso também cobre a venda conjunta com a AWS, explicando como trabalhar efetivamente com a AWS e aplicar práticas recomendadas para maximizar os resultados de vendas. São discutidos os programas de financiamento disponíveis para parceiros da AWS, que podem facilitar a adoção dos serviços por parte dos clientes.</p>
+
 # Exercícios
 Nessa sprint foi proposto 2 casos de estudos, totalizando 16 exercícios no total. Abaixo tem a resolução de cada um:
 - Caso de estudo Biblioteca:
@@ -87,6 +93,7 @@ Nessa sprint foi proposto 2 casos de estudos, totalizando 16 exercícios no tota
 
 
 # Certificados
+![](/Sprint_2/certificados/certificado-aws.png)
 
 # Desafio
 O objetivo do desafio era colocar em prática o conhecimento sobre modelagem de dados Relacional e Dimensional com o uso de Linguagem SQL. Foi disponibilizado um arquivo com um banco de dados chamado ``consecionario.sqlite``, onde o desafio era normalizar a base de dados aplicando as formas normais e depois transformar o modelo relacional em dimensional. 
