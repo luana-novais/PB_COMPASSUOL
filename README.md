@@ -32,6 +32,17 @@
   Aprendi o que é um controle de versionamento e que o Git é o sistema mais utilizado mundialmente. Permite você gerenciar e acompanhar as mudanças em arquivos de código-fonte ao longo do tempo e também que vários desenvolvedores trabalhem no mesmo projeto simultaneamente, facilitando a colaboração. Os principais comandos são o <strong>init</strong> (inicia o repositório), <strong>add</strong> (adiciona o arquivo), <strong>commit</strong> (escreve uma mensagem das alterações), <strong>push</strong> (envia as alterações para o repo remoto). O GitHub é uma plataforma de hospedagem que utiliza o Git para controle de versão.
 </p>
 
+#### Linguagem SQL
+<p align= "justify"> 
+SQL é uma linguegem padrão para gerenciar e manipular bancos de dados relacionais. Ela permite realizar diversas operações como, consultas de dados, manipulação de dados, criação e estruturação. É uma ferramenta poderosa para análise de dados, permitindo extrair, transformar e visualizar informações de grandes bancos de dados.
+</p>
+
+#### Modelo Relacional e Modelo Dimencional
+
+<p align= "justify"> 
+O modelo relacional é um tipo de banco de dados onde as informações são armazenadas em tabelas, que são compostas por linhas e colunas. Cada linha representa um registro individual, enquanto cada coluna representa um atributo desse registro. As tabelas podem ser inter-relacionadas por meio de chaves primárias e chaves estrangeiras.
+O modelo dimensional é projetado principalmente para facilitar a análise e consulta de grandes volumes de dados, comumente utilizado em data warehouses e sistemas de Business Intelligence (BI). Esse modelo organiza os dados em um formato que permite uma rápida agregação e análise.
+</p>
 
 ## 🚀 Sprints
 
