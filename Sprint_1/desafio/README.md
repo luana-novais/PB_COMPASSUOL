@@ -4,7 +4,7 @@
 
 ##### 1. ORIENTAÇÕES
 
-- A primeira parte do desafio padia para criar um repositório privado no GitHub e adicionar o colaborador da Compass UOL. Em seguida, escolhi o editor de texto que utilizaria para resolver o desafio. Optei pelo Visual Studio Code (VS Code) e decidi usar o Windows Subsystem for Linux (WSL) em vez de uma máquina virtual.
+- A primeira parte do desafio pedia para criar um repositório privado no GitHub e adicionar o colaborador da Compass UOL. Em seguida, escolhi o editor de texto que utilizaria para resolver o desafio. Optei pelo Visual Studio Code (VS Code) e decidi usar o Windows Subsystem for Linux (WSL) em vez de uma máquina virtual.
 - Após seguir as orientações iniciais, criei os diretórios e arquivos necessários utilizando comandos básicos do Linux que aprendi durante o curso. Para criar os diretórios, utilizei o comando mkdir. Durante a criação do arquivo Markdown, tentei usar o comando cat, que pode ser usado para criar, unir ou exibir arquivos. No entanto, cometi um erro de sintaxe, resultando em uma falha como pode ser visto na imagem. Em vez disso, usei o comando touch, que permite tanto criar arquivos vazios quanto controlar as modificações realizadas nos arquivos.
 
 ![Comandos utilizados para criação das pastas no sistema operacional Linux](/Sprint_1/evidencias/3-pastas.png)
