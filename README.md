@@ -47,11 +47,11 @@ O modelo dimensional é projetado principalmente para facilitar a análise e con
 #### AWS Skill Builder - AWS Partner: Sales Accreditation (Business)
 
 <p align= "justify"> A computação em Nuvem é a entrega de recursos computacionais (como servidores, armazenamento e bancos de dados) através da internet. Em vez de possuir e manter hardware localmente, você pode usar recursos fornecidos por um provedor de nuvem.
-Os principais modelos de serviços são:
+Os principais modelos de serviços são: </p>
 
-<strong>IaaS</strong> (Infrastructure as a Service): Oferece infraestrutura virtualizada na nuvem, como servidores e armazenamento.
-<strong>PaaS</strong> (Platform as a Service): Fornece uma plataforma para desenvolvimento e gerenciamento de aplicações sem se preocupar com a infraestrutura subjacente.
-<strong>SaaS</strong> (Software as a Service): Oferece aplicações prontas para uso pela internet, como e-mail e CRM.</p>
+- IaaS(Infrastructure as a Service): Oferece infraestrutura virtualizada na nuvem, como servidores e armazenamento.
+- PaaS(Platform as a Service): Fornece uma plataforma para desenvolvimento e gerenciamento de aplicações sem se preocupar com a infraestrutura subjacente.
+- SaaS(Software as a Service): Oferece aplicações prontas para uso pela internet, como e-mail e CRM.
 
 ## 🚀 Sprints
 
