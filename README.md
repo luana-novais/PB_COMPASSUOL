@@ -46,12 +46,19 @@ O modelo dimensional é projetado principalmente para facilitar a análise e con
 
 #### AWS Skill Builder - AWS Partner: Sales Accreditation (Business)
 
-<p align= "justify"> A computação em Nuvem é a entrega de recursos computacionais (como servidores, armazenamento e bancos de dados) através da internet. Em vez de possuir e manter hardware localmente, você pode usar recursos fornecidos por um provedor de nuvem.
+<p align = "justify"> A computação em Nuvem é a entrega de recursos computacionais (como servidores, armazenamento e bancos de dados) através da internet. Em vez de possuir e manter hardware localmente, você pode usar recursos fornecidos por um provedor de nuvem.
 Os principais modelos de serviços são: </p>
 
 - IaaS(Infrastructure as a Service): Oferece infraestrutura virtualizada na nuvem, como servidores e armazenamento.
 - PaaS(Platform as a Service): Fornece uma plataforma para desenvolvimento e gerenciamento de aplicações sem se preocupar com a infraestrutura subjacente.
 - SaaS(Software as a Service): Oferece aplicações prontas para uso pela internet, como e-mail e CRM.
+
+#### Python
+<p align = 'justify'> Python é uma linguagem de programação de alto nível, conhecida por sua simplicidade e legibilidade. Se destaca por sua sintaxe clara e concisa, que facilita o aprendizado e a manutenção do código. A linguagem suporta múltiplos paradigmas de programação, incluindo a programação orientada a objetos, funcional e imperativa. É uma linguagem amplamente utilizado em diversas áreas, como desenvolvimento web, análise de dados, automação, inteligência artificial e ciência de dados. Uma das suas principais vantagens é a vasta biblioteca padrão e a grande quantidade de bibliotecas externas, que permitem a rápida implementação de soluções complexas. Por ser uma linguagem interpretada, Python é também muito versátil e pode ser executado em diferentes plataformas sem a necessidade de compilação. </p>
+
+#### AWS Partner - Economias na nuvem AWS
+<p align = 'justify'> O curso tem como objetivo fornecer dados quantificáveis sobre o valor comercial que pode ser obtido ao migrar de uma infraestrutura on-premises para a AWS, auxiliando na criação de casos de negócio que evidenciam os potenciais ganhos do uso da nuvem. Vimos sobre os aspectos econômicos e ao valor comercial da nuvem, seguido da análise dos pilares do AWS Cloud Value Framework. Essa metodologia permite quantificar e qualificar os benefícios da nuvem nas áreas de redução de custos, produtividade, resiliência operacional, agilidade empresarial e sustentabilidade. O curso também abrange a gestão financeira da nuvem e as ferramentas AWS para a criação de estudos de caso comparativos entre a infraestrutura local e a nuvem. </p>
+
 
 ## 🚀 Sprints
 
