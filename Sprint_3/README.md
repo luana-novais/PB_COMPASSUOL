@@ -1,7 +1,7 @@
 # Sprint 3
 
 # Python
-Durante a Sprint 3, aprofundei meus conhecimentos em Python, uma das linguagens de programação mais populares e amplamente utilizadas em projetos de dados. Abaixo, destaco os principais pontos que aprendi:
+<p align= "justify"> Durante a Sprint 3, aprofundei meus conhecimentos em Python, uma das linguagens de programação mais populares e amplamente utilizadas em projetos de dados. Abaixo, destaco os principais pontos que aprendi: </p>
 
 ##### Sintaxe Básica do Python
 - Declaração de Variáveis: Aprendi a declarar variáveis e utilizar a tipagem dinâmica de Python, que permite maior flexibilidade ao trabalhar com diferentes tipos de dados.
@@ -14,10 +14,10 @@ Durante a Sprint 3, aprofundei meus conhecimentos em Python, uma das linguagens 
 - Introdução a Bibliotecas: Fui introduzido às bibliotecas Pandas e NumPy, que são fundamentais para o processamento de dados em Python. Aprendi sobre outras bibliotecas importantes, como Matplotlib e Seaborn, para visualização de dados, o que me ajudou a apresentar resultados de forma mais clara e informativa.
 
 # AWS Partner - Economias na nuvem AWS
-O objetivo é fornecer dados valiosos que possam ser compartilhados com nossos clientes, demonstrando de forma quantificável o valor comercial da migração de uma infraestrutura on-premises para a AWS. Esses dados são essenciais para ajudar a desenhar um caso de negócio, destacando os potenciais ganhos do uso da nuvem.
-O curso começou com uma introdução sobre os aspectos econômicos e o valor comercial da nuvem. Em seguida, analisamos os pilares do AWS Cloud Value Framework, uma metodologia criada pela AWS que quantifica e qualifica os benefícios da nuvem, como redução de custos, aumento da produtividade da equipe, resiliência operacional, agilidade empresarial e sustentabilidade. Também abordamos a gestão financeira na nuvem e as ferramentas que a AWS oferece para criar estudos de caso que comparam a infraestrutura local à nuvem. 
-Os aspectos econômicos da nuvem concentram-se no valor comercial e no gerenciamento financeiro da infraestrutura na nuvem, enfatizando a importância de envolver todos os stakeholders, como TI e finanças, nas discussões iniciais sobre migração. Em vez de focar apenas em preços, é fundamental avaliar a eficiência dos processos, evitando simplesmente migrar ineficiências de ambientes on-premises para a nuvem. Com a adoção da AWS, as empresas podem se libertar das tarefas táticas dos data centers tradicionais, reduzindo custos e acelerando a inovação ao utilizar serviços e tecnologias mais avançadas.
-A AWS oferece ferramentas como o AWS Identity Access Management (IAM) para gerenciar segurança e conformidade, e promove uma "falha rápida", permitindo encerrar iniciativas sem desperdício de recursos. A infraestrutura da AWS também contribui para a sustentabilidade, reduzindo a pegada de carbono através do uso de energia renovável. Além disso, operações financeiras na nuvem são aprimoradas por meio de identificação e investimento em processos e automação, assegurando que os clientes maximizem os benefícios de custo de suas cargas de trabalho. Ferramentas como a Avaliação do Portfólio de Migração (MPA) e o AWS Cost Explorer são essenciais para a análise e planejamento eficaz da migração.
+<p align= "justify"> O objetivo é fornecer dados valiosos que possam ser compartilhados com nossos clientes, demonstrando de forma quantificável o valor comercial da migração de uma infraestrutura on-premises para a AWS. Esses dados são essenciais para ajudar a desenhar um caso de negócio, destacando os potenciais ganhos do uso da nuvem. </p>
+<p align= "justify"> O curso começou com uma introdução sobre os aspectos econômicos e o valor comercial da nuvem. Em seguida, analisamos os pilares do AWS Cloud Value Framework, uma metodologia criada pela AWS que quantifica e qualifica os benefícios da nuvem, como redução de custos, aumento da produtividade da equipe, resiliência operacional, agilidade empresarial e sustentabilidade. Também abordamos a gestão financeira na nuvem e as ferramentas que a AWS oferece para criar estudos de caso que comparam a infraestrutura local à nuvem. </p>
+<p align= "justify"> Os aspectos econômicos da nuvem concentram-se no valor comercial e no gerenciamento financeiro da infraestrutura na nuvem, enfatizando a importância de envolver todos os stakeholders, como TI e finanças, nas discussões iniciais sobre migração. Em vez de focar apenas em preços, é fundamental avaliar a eficiência dos processos, evitando simplesmente migrar ineficiências de ambientes on-premises para a nuvem. Com a adoção da AWS, as empresas podem se libertar das tarefas táticas dos data centers tradicionais, reduzindo custos e acelerando a inovação ao utilizar serviços e tecnologias mais avançadas. </p>
+<p align= "justify"> A AWS oferece ferramentas como o AWS Identity Access Management (IAM) para gerenciar segurança e conformidade, e promove uma "falha rápida", permitindo encerrar iniciativas sem desperdício de recursos. A infraestrutura da AWS também contribui para a sustentabilidade, reduzindo a pegada de carbono através do uso de energia renovável. Além disso, operações financeiras na nuvem são aprimoradas por meio de identificação e investimento em processos e automação, assegurando que os clientes maximizem os benefícios de custo de suas cargas de trabalho. Ferramentas como a Avaliação do Portfólio de Migração (MPA) e o AWS Cost Explorer são essenciais para a análise e planejamento eficaz da migração.</p>
 
 
 # Exercícios
@@ -40,6 +40,6 @@ Foi disponibilizado um arquivo .csv com as colunas Actor, Tital Gross, Number of
 
 
 # Desafio
-O intuito do desafio era praticar os conhecimentos adquiridos em Python, foi disponibilizado uma base de dados e o objetivo foi ler esse arquivo de estatistica da Loja do Google Play Store, processar esses dados e gerar gráficos de análise. 
+<p align= "justify"> O intuito do desafio era praticar os conhecimentos adquiridos em Python, foi disponibilizado uma base de dados e o objetivo foi ler esse arquivo de estatistica da Loja do Google Play Store, processar esses dados e gerar gráficos de análise. </p>
 
 [Desafio](./desafio/README.md)
