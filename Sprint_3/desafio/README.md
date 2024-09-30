@@ -61,7 +61,6 @@ O desafio também pedia para apresentar 2 gráficos diferentes dos que já foram
 
 ###### Análise dos Top 10 Jogos por Instalações
 O segundo calculo escolhido foi para representar os 10 app com mais instalação dentro do categoria Games, filtrei todos os aplicativos da categoria "GAME", ordena-os pelo número de instalações e selecionei os 10 jogos mais baixados.
-O segundo gráfico escolhido, foi o grafico de linhas, que permite uma comparação direta entre os jogos. As linhas conectam os pontos de dados, permitindo que o espectador observe rapidamente as diferenças no número de downloads entre os jogos.
-Este código irá gerar um gráfico de linhas mostrando os 10 jogos mais baixados, permitindo visualizar a comparação entre o número de instalações para cada jogo.  ele permite visualizar claramente a relação entre os jogos e o número de instalações, facilitando a identificação de qual jogo se destaca em popularidade.
+O segundo gráfico escolhido, foi o grafico de linhas, que permite uma comparação direta entre os jogos. As linhas conectam os pontos de dados, permitindo que o espectador observe rapidamente as diferenças no número de downloads entre os jogos, ele permite visualizar claramente a relação entre os jogos e o número de instalações, facilitando a identificação de qual jogo se destaca em popularidade.
 
 ![](/Sprint_3/evidencias/top-games.png)
