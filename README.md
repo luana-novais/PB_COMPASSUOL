@@ -59,6 +59,11 @@ Os principais modelos de serviços são: </p>
 #### AWS Partner - Economias na nuvem AWS
 <p align = 'justify'> O curso tem como objetivo fornecer dados quantificáveis sobre o valor comercial que pode ser obtido ao migrar de uma infraestrutura on-premises para a AWS, auxiliando na criação de casos de negócio que evidenciam os potenciais ganhos do uso da nuvem. Vimos sobre os aspectos econômicos e ao valor comercial da nuvem, seguido da análise dos pilares do AWS Cloud Value Framework. Essa metodologia permite quantificar e qualificar os benefícios da nuvem nas áreas de redução de custos, produtividade, resiliência operacional, agilidade empresarial e sustentabilidade. O curso também abrange a gestão financeira da nuvem e as ferramentas AWS para a criação de estudos de caso comparativos entre a infraestrutura local e a nuvem. </p>
 
+#### Docker
+<p align = 'justify'> Docker é uma plataforma de contêineres que facilita a criação, distribuição e execução de aplicações em ambientes isolados e padronizados. Ele permite que desenvolvedores empacotem suas aplicações e todas as dependências necessárias em contêineres, garantindo que o software funcione de maneira consistente, independentemente do ambiente em que está sendo executado. </p>
+
+#### AWS Partner: Accreditation (Technical) 
+<p align = 'justify'>O curso fornece uma base sólida para ajudar empresas na migração, adoção e otimização de soluções na nuvem. O curso abrange os principais serviços da AWS, como EC2, S3, e RDS, além de frameworks importantes, como o AWS Cloud Adoption Framework (CAF) e o AWS Well-Architected Framework. Também são abordadas estratégias de migração e as melhores práticas para a construção de arquiteturas eficientes e seguras na nuvem. </p>
 
 ## 🚀 Sprints
 
