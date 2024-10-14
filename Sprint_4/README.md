@@ -35,10 +35,15 @@ Um contêiner no Docker é uma instância em execução de uma imagem. Ele encap
 Os comandos básicos são:
 
 ``docker ps`` - listar contêineres em execução
+
 ``docker ps -a`` - listar todos so contêineres, inclusive os parados
+
 ``docker run``- criar e iniciar um novo contêiner
+
 ``docker stop`` - para um contêiner em execução
+
 ``docker start`` - iniciar um contêiner parado
+
 ``docker rm`` - remover um contêiner 
 
 ##### Imagem
@@ -46,7 +51,9 @@ Uma imagem no Docker é um modelo imutável que contém tudo o que é necessári
 Os comandos básicos são:
 
 ``docker images`` - Listar imagens disponíveis no sistema
+
 ``docker build -t`` - Criar uma imagem a partir de um Dockerfile
+
 ``docker rmi`` - remover uma imagem
 
 # Exercícios
