@@ -56,6 +56,8 @@ As evidencias sobre o exercicíos pode ser visto na pasta [Exercicíos](./exerci
 
 ![Certificado AWS](/Sprint_5/certificados/certificado.png)
 
+A badge da conclusão do game Cloud Quest, pode ser vista no link:
+
 https://www.credly.com/badges/8b704b3a-0f1c-44b8-95a3-da425c9e0563/public_url
 
 # Desafio
