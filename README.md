@@ -65,6 +65,12 @@ Os principais modelos de serviços são: </p>
 #### AWS Partner: Accreditation (Technical) 
 <p align = 'justify'>O curso fornece uma base sólida para ajudar empresas na migração, adoção e otimização de soluções na nuvem. O curso abrange os principais serviços da AWS, como EC2, S3, e RDS, além de frameworks importantes, como o AWS Cloud Adoption Framework (CAF) e o AWS Well-Architected Framework. Também são abordadas estratégias de migração e as melhores práticas para a construção de arquiteturas eficientes e seguras na nuvem. </p>
 
+#### Cloud Quest
+<p align ='justify'>O Cloud Quest é um jogo educacional interativo desenvolvido pela AWS que ensina os fundamentos da computação em nuvem de maneira envolvente e prática. Os jogadores assumem o papel de exploradores em um mundo virtual, completando missões e resolvendo desafios baseados em cenários reais da AWS, como armazenamento, redes e segurança. Essa abordagem gamificada solidifica o aprendizado ao aplicar os conceitos da nuvem em contextos do dia a dia.</p>
+
+#### AWS Certified Cloud Practitioner (CLF-C02)
+<p align ='justify'>O curso de preparação para o exame AWS Certified Cloud Practitioner (CLF-C02) oferece uma compreensão abrangente dos conceitos básicos da AWS e da computação em nuvem. Abrange temas como elasticidade, escalabilidade, segurança, modelos de serviço (IaaS, PaaS, SaaS), além de práticas recomendadas para a otimização de custos e design de sistemas resilientes.</p>
+
 ## 🚀 Sprints
 
 - [Sprint 1](./Sprint_1/README.md)
