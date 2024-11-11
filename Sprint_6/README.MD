@@ -124,13 +124,13 @@ Nessa Sprint fizemos alguns laboratorios para treinar o uso da AWS, a resoluçã
 
 # Certificados
 
-Durante a Sprint fizemos 9 cursos da plataforma AWS, os certificados se enconta na pasta [certificados.](./Sprint_6/certificados)
+Durante a Sprint fizemos 9 cursos da plataforma AWS, os certificados se enconta na pasta [certificados.](../Sprint_6/certificados)
 
 # Desafio
 
 Nesta sprint, iniciamos a preparação para o desafio final, que será a construção de um Data Lake para filmes e séries, incluindo as etapas de ingestão, armazenamento, processamento e consumo dos dados. O desafio será dividido em cinco entregas, e nesta etapa realizamos a primeira entrega.
 
-[Desafio](./desafio/README.md)
+[Desafio](../desafio/README.md)
 
 
 
