@@ -71,6 +71,33 @@ Os principais modelos de serviços são: </p>
 #### AWS Certified Cloud Practitioner (CLF-C02)
 <p align ='justify'>O curso de preparação para o exame AWS Certified Cloud Practitioner (CLF-C02) oferece uma compreensão abrangente dos conceitos básicos da AWS e da computação em nuvem. Abrange temas como elasticidade, escalabilidade, segurança, modelos de serviço (IaaS, PaaS, SaaS), além de práticas recomendadas para a otimização de custos e design de sistemas resilientes.</p>
 
+#### Noções Básicas de Analytics – Parte 1
+<p align ='justify'>Este curso oferece uma introdução ao processo de análise de dados, abordando os tipos de analytics (descritiva, diagnóstica, preditiva e prescritiva) e explicando o uso de IA e Machine Learning para obter insights e tomar decisões informadas. Também explora os 5 V’s do Big Data (Volume, Variedade, Velocidade, Veracidade e Valor) e como os serviços da AWS, como Amazon S3, Redshift, Glue e QuickSight, ajudam no processamento e visualização de dados. </p>
+
+#### Noções Básicas de Analytics – Parte 2
+<p align ='justify'> Neste curso, aprendi sobre Data Lakes e Data Warehouses, destacando suas diferenças e utilidades em analytics. A arquitetura de dados moderna foi abordada, com ênfase na integração de data lakes, data warehouses e ferramentas como Amazon DataZone, Glue e Athena. O curso também explorou serviços AWS específicos para analytics, como Redshift, EMR, Aurora e SageMaker, permitindo a criação de soluções de dados eficientes. </p>
+
+#### Serverless Analytics (Português)
+<p align ='justify'>Este curso ensina como integrar e processar dados usando ferramentas serverless da AWS, como AWS IoT Analytics para dados de dispositivos, Amazon Cognito para autenticação, e AWS Lambda para automação de processos. Aprendi a utilizar o Amazon SageMaker para criar modelos de machine learning e a armazenar dados de forma eficiente para análise e visualização, facilitando a criação de soluções escaláveis e eficientes.</p>
+
+#### Introduction to Amazon Athena 
+<p align ='justify'>O curso oferece uma visão geral do Amazon Athena, explicando como ele permite consultas interativas de dados armazenados no Amazon S3 usando SQL. Aprendi a configurar o Athena, criar bancos de dados e executar consultas para validar dados, proporcionando uma forma rápida e eficiente de analisar grandes volumes de dados na AWS.</p>
+
+#### AWS Glue Getting Started
+<p align ='justify'> Neste curso, aprendi sobre o AWS Glue, uma ferramenta gerenciada de ETL (Extração, Transformação e Carga) da AWS. Ele facilita a integração de dados de diversas fontes e a automação do processo de transformação. O curso abordou como usar o Glue Studio para criar pipelines ETL visuais e como o AWS Glue DataBrew pode transformar dados sem código, além de explicar sua estrutura de custos.</p>
+
+#### Amazon EMR Getting Started
+<p align ='justify'>O curso forneceu uma introdução ao Amazon EMR, uma plataforma da AWS para processamento de grandes volumes de dados com frameworks como Apache Spark e Hadoop. Aprendi a usar o EMR Serverless para tarefas escaláveis e como criar clusters no EC2. Além disso, explorei o Amazon EMR Studio para gerenciamento de notebooks e análise de dados em tempo real e de forma interativa.</p>
+
+#### Getting Started with Amazon Redshift
+<p align ='justify'>Este curso apresenta o Amazon Redshift, uma solução de data warehouse na nuvem, focada em análise rápida e escalável de grandes volumes de dados. Aprendi sobre a arquitetura do Redshift, sua integração com o S3, e como criar clusters e carregar dados para realizar consultas, além de entender os benefícios e estrutura de custos do serviço.</p>
+
+#### Best Practices for Data Warehousing with Amazon Redshift
+<p align ='justify'>Neste curso, aprendi as melhores práticas para implementar um data warehouse no Amazon Redshift, incluindo design de tabelas, ingestão de dados e gerenciamento de workloads. O curso enfatizou a importância do dimensionamento correto de nós e clusters para otimizar o desempenho e os custos, garantindo que o data warehouse atenda às necessidades de processamento de dados. </p>
+
+#### Amazon QuickSight - Getting Started
+<p align ='justify'>Este curso apresentou o Amazon QuickSight, uma ferramenta de visualização e análise de dados da AWS. Aprendi a criar conjuntos de dados, gerar análises visuais e personalizar dashboards. O curso também explorou como publicar painéis e usar o QuickSight Q, que permite realizar consultas em linguagem natural para facilitar a interação com os dados de maneira intuitiva.</p>
+
 ## 🚀 Sprints
 
 - [Sprint 1](./Sprint_1/README.md)
@@ -78,7 +105,7 @@ Os principais modelos de serviços são: </p>
 - [Sprint 3](./Sprint_3/README.md)
 - [Sprint 4](./Sprint_4/README.md)
 - [Sprint 5](./Sprint_5/README.md)
-- [Sprint 6](./Sprint_6/README.md)
+- [Sprint 6](./Sprint_6/README.MD)
 - [Sprint 7](./Sprint_7/README.md)
 - [Sprint 8](./Sprint_8/README.md)
 - [Sprint 9](./Sprint_9/README.md)
