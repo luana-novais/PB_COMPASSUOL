@@ -114,13 +114,13 @@ No curso "Amazon QuickSight - Getting Started", aprendi como utilizar o QuickSig
 Nessa Sprint fizemos alguns laboratorios para treinar o uso da AWS, a resolução dos exercicíos pode ser visto abaixo: 
 
 ##### LAB S3
-[Resultados](./Sprint_6/exercicios/LAB-S3)
+[Resultados](../Sprint_6/exercicios/LAB-S3)
 
 ##### LAB Athena
-[Resultados](./Sprint_6/exercicios/LAB-Athena)
+[Resultados](../Sprint_6/exercicios/LAB-Athena)
 
 ##### LAB Lambda
-[Resultados](./Sprint_6/exercicios/LAB-Lambda)
+[Resultados](../Sprint_6/exercicios/LAB-Lambda)
 
 # Certificados
 
