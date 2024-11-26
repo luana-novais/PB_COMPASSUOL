@@ -65,3 +65,4 @@ Depois podemos ver que o arquivo foi salvo no bucket da forma que pedia no desaf
 ![](../evidencias/04-bucket-s3.png)
 
 Este desafio envolveu a ingestão de dados de filmes de ficção científica a partir da API do TMDB e o armazenamento desses dados em um bucket S3. A criação de uma camada Docker para importar a biblioteca requests foi fundamental para garantir que as dependências fossem atendidas no ambiente Lambda, permitindo a execução correta do código. As questões de análise propostas podem ser respondidas utilizando os dados coletados, permitindo insights sobre a indústria de filmes de sci-fi. 
+O arquivo utilizado no lambda pode ser visto [código py](../desafio/api-custos.py) e o arquivo ``json`` pode ser visto [arquivo json](../desafio/sci-fi-custos.json)
