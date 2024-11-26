@@ -1,0 +1,966 @@
+[
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "budget": 120000000,
+        "revenue": 456425476,
+        "release_date": "2024-10-22",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "budget": 78000000,
+        "revenue": 317414420,
+        "release_date": "2024-09-12",
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Family"
+        ]
+    },
+    {
+        "id": 791042,
+        "title": "Levels",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-11-01",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "budget": 200000000,
+        "revenue": 1337900827,
+        "release_date": "2024-07-24",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "budget": 17500000,
+        "revenue": 54130377,
+        "release_date": "2024-09-07",
+        "genres": [
+            "Drama",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 698687,
+        "title": "Transformers One",
+        "budget": 75000000,
+        "revenue": 128888103,
+        "release_date": "2024-09-11",
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "id": 945961,
+        "title": "Alien: Romulus",
+        "budget": 80000000,
+        "revenue": 350861031,
+        "release_date": "2024-08-13",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1051896,
+        "title": "Arcadian",
+        "budget": 0,
+        "revenue": 859453,
+        "release_date": "2024-04-12",
+        "genres": [
+            "Action",
+            "Horror",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 335983,
+        "title": "Venom",
+        "budget": 116000000,
+        "revenue": 856085151,
+        "release_date": "2018-09-28",
+        "genres": [
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 580489,
+        "title": "Venom: Let There Be Carnage",
+        "budget": 110000000,
+        "revenue": 506863592,
+        "release_date": "2021-09-30",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1196470,
+        "title": "Survive",
+        "budget": 5270000,
+        "revenue": 0,
+        "release_date": "2024-06-19",
+        "genres": [
+            "Thriller",
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1125510,
+        "title": "The Platform 2",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-09-27",
+        "genres": [
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 1144962,
+        "title": "Transmorphers: Mech Beasts",
+        "budget": 0,
+        "revenue": 65452,
+        "release_date": "2023-06-09",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 726139,
+        "title": "Project Silence",
+        "budget": 14750000,
+        "revenue": 6283415,
+        "release_date": "2024-07-11",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1159311,
+        "title": "My Hero Academia: You're Next",
+        "budget": 0,
+        "revenue": 31740450,
+        "release_date": "2024-08-02",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 592831,
+        "title": "Megalopolis",
+        "budget": 120000000,
+        "revenue": 13736293,
+        "release_date": "2024-09-25",
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 653346,
+        "title": "Kingdom of the Planet of the Apes",
+        "budget": 160000000,
+        "revenue": 397378150,
+        "release_date": "2024-05-08",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 365177,
+        "title": "Borderlands",
+        "budget": 115000000,
+        "revenue": 32978510,
+        "release_date": "2024-08-07",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 823464,
+        "title": "Godzilla x Kong: The New Empire",
+        "budget": 150000000,
+        "revenue": 571750016,
+        "release_date": "2024-03-27",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1064028,
+        "title": "Subservience",
+        "budget": 4400000,
+        "revenue": 262793,
+        "release_date": "2024-08-15",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Horror"
+        ]
+    },
+    {
+        "id": 947891,
+        "title": "My Old Ass",
+        "budget": 3000000,
+        "revenue": 5705895,
+        "release_date": "2024-09-13",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 827931,
+        "title": "Time Cut",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-10-29",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 786892,
+        "title": "Furiosa: A Mad Max Saga",
+        "budget": 170000000,
+        "revenue": 173775791,
+        "release_date": "2024-05-22",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-12-19",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 762441,
+        "title": "A Quiet Place: Day One",
+        "budget": 67000000,
+        "revenue": 261786322,
+        "release_date": "2024-06-26",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "budget": 190000000,
+        "revenue": 714444358,
+        "release_date": "2024-02-27",
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 995803,
+        "title": "Arena Wars",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-06-25",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller",
+            "Comedy",
+            "Horror"
+        ]
+    },
+    {
+        "id": 634649,
+        "title": "Spider-Man: No Way Home",
+        "budget": 200000000,
+        "revenue": 1921847111,
+        "release_date": "2021-12-15",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 299536,
+        "title": "Avengers: Infinity War",
+        "budget": 300000000,
+        "revenue": 2052415039,
+        "release_date": "2018-04-25",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1140648,
+        "title": "Double Blind",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-02-09",
+        "genres": [
+            "Science Fiction",
+            "Horror",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "budget": 100000000,
+        "revenue": 690897910,
+        "release_date": "2023-05-31",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 667538,
+        "title": "Transformers: Rise of the Beasts",
+        "budget": 195000000,
+        "revenue": 439000000,
+        "release_date": "2023-06-06",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 157336,
+        "title": "Interstellar",
+        "budget": 165000000,
+        "revenue": 701729206,
+        "release_date": "2014-11-05",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 438631,
+        "title": "Dune",
+        "budget": 165000000,
+        "revenue": 407573628,
+        "release_date": "2021-09-15",
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1359227,
+        "title": "LEGO Marvel Avengers: Mission Demolition",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-10-17",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "budget": 460000000,
+        "revenue": 2320250281,
+        "release_date": "2022-12-14",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 68726,
+        "title": "Pacific Rim",
+        "budget": 180000000,
+        "revenue": 411000000,
+        "release_date": "2013-07-11",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 940721,
+        "title": "Godzilla Minus One",
+        "budget": 15000000,
+        "revenue": 115857413,
+        "release_date": "2023-11-03",
+        "genres": [
+            "Science Fiction",
+            "Horror",
+            "Action"
+        ]
+    },
+    {
+        "id": 198663,
+        "title": "The Maze Runner",
+        "budget": 34000000,
+        "revenue": 348319861,
+        "release_date": "2014-09-10",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 24428,
+        "title": "The Avengers",
+        "budget": 220000000,
+        "revenue": 1518815515,
+        "release_date": "2012-04-25",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 609681,
+        "title": "The Marvels",
+        "budget": 274800000,
+        "revenue": 207089999,
+        "release_date": "2023-11-08",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 507086,
+        "title": "Jurassic World Dominion",
+        "budget": 165000000,
+        "revenue": 1001978080,
+        "release_date": "2022-06-01",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1209290,
+        "title": "Justice League: Crisis on Infinite Earths Part Three",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-07-15",
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 348,
+        "title": "Alien",
+        "budget": 11000000,
+        "revenue": 104931801,
+        "release_date": "1979-05-25",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1134424,
+        "title": "Mantra Warrior: The Legend of The Eight Moons",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2023-10-11",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1042657,
+        "title": "Latency",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-06-14",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Horror"
+        ]
+    },
+    {
+        "id": 615656,
+        "title": "Meg 2: The Trench",
+        "budget": 129000000,
+        "revenue": 384056482,
+        "release_date": "2023-08-02",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 1239251,
+        "title": "Megamind vs. the Doom Syndicate",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-03-29",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 557,
+        "title": "Spider-Man",
+        "budget": 139000000,
+        "revenue": 821708551,
+        "release_date": "2002-05-01",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 447365,
+        "title": "Guardians of the Galaxy Vol. 3",
+        "budget": 250000000,
+        "revenue": 845600000,
+        "release_date": "2023-05-03",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 601796,
+        "title": "Alienoid",
+        "budget": 24500000,
+        "revenue": 12109608,
+        "release_date": "2022-07-20",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Fantasy",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 76341,
+        "title": "Mad Max: Fury Road",
+        "budget": 150000000,
+        "revenue": 378858340,
+        "release_date": "2015-05-13",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 19995,
+        "title": "Avatar",
+        "budget": 237000000,
+        "revenue": 2923706026,
+        "release_date": "2009-12-15",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 335984,
+        "title": "Blade Runner 2049",
+        "budget": 150000000,
+        "revenue": 259239658,
+        "release_date": "2017-10-04",
+        "genres": [
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "id": 603,
+        "title": "The Matrix",
+        "budget": 63000000,
+        "revenue": 463517383,
+        "release_date": "1999-03-31",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1094138,
+        "title": "Jackpot!",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-08-13",
+        "genres": [
+            "Comedy",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 766507,
+        "title": "Prey",
+        "budget": 65000000,
+        "revenue": 0,
+        "release_date": "2022-08-02",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 13194,
+        "title": "Highlander: The Search for Vengeance",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2007-06-05",
+        "genres": [
+            "Action",
+            "Animation",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "budget": 356000000,
+        "revenue": 2799439100,
+        "release_date": "2019-04-24",
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 324857,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "budget": 90000000,
+        "revenue": 384298736,
+        "release_date": "2018-12-06",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 588228,
+        "title": "The Tomorrow War",
+        "budget": 200000000,
+        "revenue": 14400000,
+        "release_date": "2021-09-03",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 934632,
+        "title": "Rebel Moon - Part Two: The Scargiver",
+        "budget": 83000000,
+        "revenue": 0,
+        "release_date": "2024-04-19",
+        "genres": [
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 27205,
+        "title": "Inception",
+        "budget": 160000000,
+        "revenue": 825532764,
+        "release_date": "2010-07-15",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1209423,
+        "title": "Artificial Justice",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-09-12",
+        "genres": [
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Back to the Future",
+        "budget": 19000000,
+        "revenue": 381109762,
+        "release_date": "1985-07-03",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 869291,
+        "title": "Cuckoo",
+        "budget": 7000000,
+        "revenue": 6680396,
+        "release_date": "2024-08-02",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1924,
+        "title": "Superman",
+        "budget": 55000000,
+        "revenue": 300500000,
+        "release_date": "1978-12-14",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1219529,
+        "title": "Aire: Just Breathe",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-08-15",
+        "genres": [
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "id": 1062215,
+        "title": "Afraid",
+        "budget": 12000000,
+        "revenue": 12977758,
+        "release_date": "2024-08-28",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 916728,
+        "title": "Slingshot",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-08-30",
+        "genres": [
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 91314,
+        "title": "Transformers: Age of Extinction",
+        "budget": 210000000,
+        "revenue": 1104054072,
+        "release_date": "2014-06-25",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 298618,
+        "title": "The Flash",
+        "budget": 220000000,
+        "revenue": 271333313,
+        "release_date": "2023-06-13",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 315635,
+        "title": "Spider-Man: Homecoming",
+        "budget": 175000000,
+        "revenue": 880166924,
+        "release_date": "2017-07-05",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "id": 614933,
+        "title": "Atlas",
+        "budget": 100000000,
+        "revenue": 0,
+        "release_date": "2024-05-23",
+        "genres": [
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 841,
+        "title": "Dune",
+        "budget": 40000000,
+        "revenue": 30982607,
+        "release_date": "1984-12-14",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-11-07",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 218,
+        "title": "The Terminator",
+        "budget": 6400000,
+        "revenue": 78371200,
+        "release_date": "1984-10-26",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1190868,
+        "title": "V/H/S/Beyond",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-09-20",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 863873,
+        "title": "Caddo Lake",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-11-28",
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 39254,
+        "title": "Real Steel",
+        "budget": 110000000,
+        "revenue": 299300000,
+        "release_date": "2011-09-28",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Drama"
+        ]
+    }
+]

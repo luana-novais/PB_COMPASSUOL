@@ -98,6 +98,9 @@ Os principais modelos de serviços são: </p>
 #### Amazon QuickSight - Getting Started
 <p align ='justify'>Este curso apresentou o Amazon QuickSight, uma ferramenta de visualização e análise de dados da AWS. Aprendi a criar conjuntos de dados, gerar análises visuais e personalizar dashboards. O curso também explorou como publicar painéis e usar o QuickSight Q, que permite realizar consultas em linguagem natural para facilitar a interação com os dados de maneira intuitiva.</p>
 
+#### Spark com Pyspark
+<p align ='justify'>Na era do "Big Data", o Spark é a principal ferramenta de processamento de dados devido à sua alta performance e capacidade de lidar com volumes massivos de dados. Sua arquitetura distribuída permite processar dados paralelamente, utilizando memória e persistência eficiente. O Spark integra-se facilmente com diversas fontes de dados e exporta para formatos e bancos de dados populares. É uma habilidade essencial para Cientistas e Engenheiros de Dados, junto com Machine Learning e Python.</p>
+
 ## 🚀 Sprints
 
 - [Sprint 1](./Sprint_1/README.md)
@@ -110,7 +113,6 @@ Os principais modelos de serviços são: </p>
 - [Sprint 8](./Sprint_8/README.md)
 - [Sprint 9](./Sprint_9/README.md)
 - [Sprint 10](./Sprint_10/README.md)
-
 
 
 ## 📍 Onde me encontrar?

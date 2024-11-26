@@ -1,0 +1,11 @@
+# Carregar o arquivo no RDD
+rdd = sc.textFile("README.md")
+
+# Dividir o texto em palavras
+words = rdd.flatMap(lambda line: line.split(" "))
+
+# Contar a ocorrência de cada palavra
+word_counts = words.map(lambda word: (word, 1)).reduceByKey(lambda a, b: a + b)
+
+# Exibir os resultados
+word_counts.collect()
