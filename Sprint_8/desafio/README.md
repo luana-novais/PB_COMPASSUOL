@@ -37,7 +37,6 @@ Resolvi fazer um tratamento das colunas caso tivessem dados nulos, para uma melh
 - **`numeroVotos`**: Substituído por `0` (zero), assumindo que filmes sem registros de votos não foram avaliados.
 - **`nomeArtista`**: Substituído por `"Desconhecido"`, permitindo que entradas sem nomes de artistas sejam identificadas de forma clara.
 
----
 
 #### **2. Conversões e Limpeza de Dados**
 A etapa de limpeza envolveu a transformação e remoção de caracteres ou formatos indesejados nos dados:
@@ -48,8 +47,6 @@ A etapa de limpeza envolveu a transformação e remoção de caracteres ou forma
   - Removeu caracteres não alfanuméricos, como símbolos e pontuações, para padronizar o texto.
   - Utilizou uma função de trim para eliminar espaços extras no início e no final das palavras, garantindo uniformidade nas entradas textuais.
 
----
-
 #### **3. Filtragem por Gênero**
 Os filmes foram filtrados para identificar aqueles que pertencem ao gênero de ficção científica (`Sci-Fi`). A filtragem criou duas categorias distintas:
 1. **Filmes Exclusivamente Sci-Fi**:
@@ -57,7 +54,6 @@ Os filmes foram filtrados para identificar aqueles que pertencem ao gênero de f
 2. **Filmes Sci-Fi com Outros Gêneros**:
    - Filmes que incluem `'Sci-Fi'` em combinação com outros gêneros, como ação, aventura ou comédia.
 
----
 
 #### **4. Formatação e Organização para Armazenamento**
 Os dados tratados e filtrados foram preparados para armazenamento no bucket S3 em pastas organizadas por ano, mês e dia, facilitando o versionamento e acesso aos dados processados, o formato pedido foi em Parquet, otimizado para consultas rápidas e compressão.
@@ -79,12 +75,9 @@ Este script realiza a leitura de arquivos JSON armazenados no S3, converte os da
 - **`create_dynamic_frame.from_options`**: Esta função carrega os dados JSON do S3 para um "DynamicFrame", que é uma estrutura de dados do Glue projetada para lidar com dados semiestruturados (como JSON). O parâmetro `connection_options` define o caminho do arquivo no S3.
 - **`format="json"`**: Especifica que o arquivo de entrada é no formato JSON.
 
----
 
 #### **2. Conversão para DataFrame Spark**
 Após o carregamento dos dados, o `DynamicFrame` é convertido em um **DataFrame Spark** utilizando o método `.toDF()`. Isso permite que os dados sejam manipulados com as operações do Spark SQL.
-
----
 
 #### **3. Escrita dos Dados em Parquet**
 Os dados processados são salvos no formato **Parquet** no Amazon S3:
