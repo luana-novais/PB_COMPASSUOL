@@ -1,0 +1,770 @@
+[
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "imdb_id": "tt6263850",
+        "budget": 200000000,
+        "revenue": 1338071348,
+        "release_date": "2024-07-24",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 299536,
+        "title": "Avengers: Infinity War",
+        "imdb_id": "tt4154756",
+        "budget": 300000000,
+        "revenue": 2052415039,
+        "release_date": "2018-04-25",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 634649,
+        "title": "Spider-Man: No Way Home",
+        "imdb_id": "tt10872600",
+        "budget": 200000000,
+        "revenue": 1921847111,
+        "release_date": "2021-12-15",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1726,
+        "title": "Iron Man",
+        "imdb_id": "tt0371746",
+        "budget": 140000000,
+        "revenue": 585174222,
+        "release_date": "2008-04-30",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 447365,
+        "title": "Guardians of the Galaxy Vol. 3",
+        "imdb_id": "tt6791350",
+        "budget": 250000000,
+        "revenue": 845600000,
+        "release_date": "2023-05-03",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 24428,
+        "title": "The Avengers",
+        "imdb_id": "tt0848228",
+        "budget": 220000000,
+        "revenue": 1518815515,
+        "release_date": "2012-04-25",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 609681,
+        "title": "The Marvels",
+        "imdb_id": "tt10676048",
+        "budget": 274800000,
+        "revenue": 207089999,
+        "release_date": "2023-11-08",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "imdb_id": "tt4154796",
+        "budget": 356000000,
+        "revenue": 2799439100,
+        "release_date": "2019-04-24",
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 315635,
+        "title": "Spider-Man: Homecoming",
+        "imdb_id": "tt2250912",
+        "budget": 175000000,
+        "revenue": 880166924,
+        "release_date": "2017-07-05",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "id": 271110,
+        "title": "Captain America: Civil War",
+        "imdb_id": "tt3498820",
+        "budget": 250000000,
+        "revenue": 1155046416,
+        "release_date": "2016-04-27",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 559,
+        "title": "Spider-Man 3",
+        "imdb_id": "tt0413300",
+        "budget": 258000000,
+        "revenue": 894983373,
+        "release_date": "2007-05-01",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 429617,
+        "title": "Spider-Man: Far From Home",
+        "imdb_id": "tt6320628",
+        "budget": 160000000,
+        "revenue": 1131927996,
+        "release_date": "2019-06-28",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1359227,
+        "title": "LEGO Marvel Avengers: Mission Demolition",
+        "imdb_id": "tt33653255",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-10-17",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 99861,
+        "title": "Avengers: Age of Ultron",
+        "imdb_id": "tt2395427",
+        "budget": 365000000,
+        "revenue": 1405403694,
+        "release_date": "2015-04-22",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 10138,
+        "title": "Iron Man 2",
+        "imdb_id": "tt1228705",
+        "budget": 200000000,
+        "revenue": 623933331,
+        "release_date": "2010-04-28",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1724,
+        "title": "The Incredible Hulk",
+        "imdb_id": "tt0800080",
+        "budget": 150000000,
+        "revenue": 264770996,
+        "release_date": "2008-06-12",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 505642,
+        "title": "Black Panther: Wakanda Forever",
+        "imdb_id": "tt9114286",
+        "budget": 250000000,
+        "revenue": 859102154,
+        "release_date": "2022-11-09",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 68721,
+        "title": "Iron Man 3",
+        "imdb_id": "tt1300854",
+        "budget": 200000000,
+        "revenue": 1215577205,
+        "release_date": "2013-04-18",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 284054,
+        "title": "Black Panther",
+        "imdb_id": "tt1825683",
+        "budget": 200000000,
+        "revenue": 1349926083,
+        "release_date": "2018-02-13",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 284053,
+        "title": "Thor: Ragnarok",
+        "imdb_id": "tt3501632",
+        "budget": 180000000,
+        "revenue": 855301806,
+        "release_date": "2017-10-02",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 283995,
+        "title": "Guardians of the Galaxy Vol. 2",
+        "imdb_id": "tt3896198",
+        "budget": 200000000,
+        "revenue": 863756051,
+        "release_date": "2017-04-19",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 640146,
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "imdb_id": "tt10954600",
+        "budget": 388369742,
+        "revenue": 476071180,
+        "release_date": "2023-02-15",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 524434,
+        "title": "Eternals",
+        "imdb_id": "tt9032400",
+        "budget": 200000000,
+        "revenue": 402064899,
+        "release_date": "2021-11-03",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 102899,
+        "title": "Ant-Man",
+        "imdb_id": "tt0478970",
+        "budget": 130000000,
+        "revenue": 519311965,
+        "release_date": "2015-07-14",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 497698,
+        "title": "Black Widow",
+        "imdb_id": "tt3480822",
+        "budget": 200000000,
+        "revenue": 379751131,
+        "release_date": "2021-01-01",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 822119,
+        "title": "Captain America: Brave New World",
+        "imdb_id": "tt14513804",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2025-02-12",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1003596,
+        "title": "Avengers: Doomsday",
+        "imdb_id": "tt21357150",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2026-04-29",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 299537,
+        "title": "Captain Marvel",
+        "imdb_id": "tt4154664",
+        "budget": 152000000,
+        "revenue": 1131416446,
+        "release_date": "2019-03-06",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1771,
+        "title": "Captain America: The First Avenger",
+        "imdb_id": "tt0458339",
+        "budget": 140000000,
+        "revenue": 370569774,
+        "release_date": "2011-07-22",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 100402,
+        "title": "Captain America: The Winter Soldier",
+        "imdb_id": "tt1843866",
+        "budget": 170000000,
+        "revenue": 714766572,
+        "release_date": "2014-03-20",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1979,
+        "title": "Fantastic Four: Rise of the Silver Surfer",
+        "imdb_id": "tt0486576",
+        "budget": 130000000,
+        "revenue": 301913131,
+        "release_date": "2007-06-13",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 118340,
+        "title": "Guardians of the Galaxy",
+        "imdb_id": "tt2015381",
+        "budget": 170000000,
+        "revenue": 772776600,
+        "release_date": "2014-07-30",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 363088,
+        "title": "Ant-Man and the Wasp",
+        "imdb_id": "tt5095030",
+        "budget": 140000000,
+        "revenue": 622674139,
+        "release_date": "2018-07-04",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 774752,
+        "title": "The Guardians of the Galaxy Holiday Special",
+        "imdb_id": "tt13623136",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-11-24",
+        "genres": [
+            "Comedy",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 617126,
+        "title": "The Fantastic Four: First Steps",
+        "imdb_id": "tt10676052",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2025-07-23",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 1003598,
+        "title": "Avengers: Secret Wars",
+        "imdb_id": "tt21361444",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2027-05-05",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1010818,
+        "title": "Groot's First Steps",
+        "imdb_id": "tt13820496",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-08-10",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1010821,
+        "title": "Groot Takes a Bath",
+        "imdb_id": "tt21316848",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-08-10",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 76122,
+        "title": "Marvel One-Shot: The Consultant",
+        "imdb_id": "tt2011118",
+        "budget": 500000,
+        "revenue": 0,
+        "release_date": "2011-09-13",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 15257,
+        "title": "Hulk vs. Wolverine",
+        "imdb_id": "",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2009-01-27",
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 76535,
+        "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+        "imdb_id": "tt2011109",
+        "budget": 500000,
+        "revenue": 0,
+        "release_date": "2011-10-25",
+        "genres": [
+            "Science Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 14611,
+        "title": "Ultimate Avengers 2",
+        "imdb_id": "tt0803093",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2006-08-08",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1010823,
+        "title": "Magnum Opus",
+        "imdb_id": "tt21316870",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-07-18",
+        "genres": [
+            "Animation",
+            "Family",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 1010819,
+        "title": "The Little Guy",
+        "imdb_id": "tt14513152",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-08-10",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 101907,
+        "title": "Hulk vs. Thor",
+        "imdb_id": "",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2009-01-27",
+        "genres": [
+            "Action",
+            "Animation",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 969681,
+        "title": "Spider-Man 4",
+        "imdb_id": "tt22084616",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2026-07-22",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 441829,
+        "title": "Team Thor: Part 2",
+        "imdb_id": "tt6599818",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2017-02-14",
+        "genres": [
+            "Science Fiction",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 13647,
+        "title": "The Invincible Iron Man",
+        "imdb_id": "tt0903135",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2007-01-23",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Action",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 14613,
+        "title": "Next Avengers: Heroes of Tomorrow",
+        "imdb_id": "tt1259998",
+        "budget": 0,
+        "revenue": 3800000,
+        "release_date": "2008-09-02",
+        "genres": [
+            "Animation",
+            "Family",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 14830,
+        "title": "Doctor Strange",
+        "imdb_id": "tt0910865",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2007-08-14",
+        "genres": [
+            "Action",
+            "Animation",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 211387,
+        "title": "Marvel One-Shot: Agent Carter",
+        "imdb_id": "tt3067038",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2013-09-03",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 1010820,
+        "title": "Groot's Pursuit",
+        "imdb_id": "tt21316834",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2022-08-10",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 119569,
+        "title": "Marvel One-Shot: Item 47",
+        "imdb_id": "tt2247732",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2012-08-29",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 758025,
+        "title": "Peter's To-Do List",
+        "imdb_id": "tt11107678",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2019-09-17",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 413279,
+        "title": "Team Thor",
+        "imdb_id": "tt6016776",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2016-08-28",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1030022,
+        "title": "Armor Wars",
+        "imdb_id": "tt13623128",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1196551,
+        "title": "Thor 5",
+        "imdb_id": null,
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 1386618,
+        "title": "Black Panther 3",
+        "imdb_id": null,
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1293690,
+        "title": "Untitled X-Men Movie",
+        "imdb_id": "tt29347085",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    }
+]

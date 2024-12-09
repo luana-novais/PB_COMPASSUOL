@@ -1,0 +1,1539 @@
+[
+    {
+        "id": 786892,
+        "title": "Furiosa: A Mad Max Saga",
+        "imdb_id": "tt12037194",
+        "budget": 170000000,
+        "revenue": 173775791,
+        "release_date": "2024-05-22",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 603,
+        "title": "The Matrix",
+        "imdb_id": "tt0133093",
+        "budget": 63000000,
+        "revenue": 463517383,
+        "release_date": "1999-03-31",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 615656,
+        "title": "Meg 2: The Trench",
+        "imdb_id": "tt9224104",
+        "budget": 129000000,
+        "revenue": 384056482,
+        "release_date": "2023-08-02",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 298618,
+        "title": "The Flash",
+        "imdb_id": "tt0439572",
+        "budget": 220000000,
+        "revenue": 271333313,
+        "release_date": "2023-06-13",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 27205,
+        "title": "Inception",
+        "imdb_id": "tt1375666",
+        "budget": 160000000,
+        "revenue": 825532764,
+        "release_date": "2010-07-15",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 141052,
+        "title": "Justice League",
+        "imdb_id": "tt0974015",
+        "budget": 300000000,
+        "revenue": 661326987,
+        "release_date": "2017-11-15",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 76341,
+        "title": "Mad Max: Fury Road",
+        "imdb_id": "tt1392190",
+        "budget": 150000000,
+        "revenue": 378858340,
+        "release_date": "2015-05-13",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 436270,
+        "title": "Black Adam",
+        "imdb_id": "tt6443346",
+        "budget": 200000000,
+        "revenue": 393452111,
+        "release_date": "2022-10-19",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 13183,
+        "title": "Watchmen",
+        "imdb_id": "tt0409459",
+        "budget": 130000000,
+        "revenue": 185258983,
+        "release_date": "2009-03-04",
+        "genres": [
+            "Mystery",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 72545,
+        "title": "Journey 2: The Mysterious Island",
+        "imdb_id": "tt1397514",
+        "budget": 79000000,
+        "revenue": 355692760,
+        "release_date": "2012-01-19",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 333339,
+        "title": "Ready Player One",
+        "imdb_id": "tt1677720",
+        "budget": 175000000,
+        "revenue": 607274134,
+        "release_date": "2018-03-28",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Blade Runner",
+        "imdb_id": "tt0083658",
+        "budget": 28000000,
+        "revenue": 41722424,
+        "release_date": "1982-06-25",
+        "genres": [
+            "Science Fiction",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 565770,
+        "title": "Blue Beetle",
+        "imdb_id": "tt9362930",
+        "budget": 104000000,
+        "revenue": 130788072,
+        "release_date": "2023-08-16",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 6479,
+        "title": "I Am Legend",
+        "imdb_id": "tt0480249",
+        "budget": 150000000,
+        "revenue": 585410052,
+        "release_date": "2007-12-12",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 1124,
+        "title": "The Prestige",
+        "imdb_id": "tt0482571",
+        "budget": 40000000,
+        "revenue": 109676311,
+        "release_date": "2006-10-17",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 624860,
+        "title": "The Matrix Resurrections",
+        "imdb_id": "tt10838180",
+        "budget": 190000000,
+        "revenue": 156497322,
+        "release_date": "2021-12-16",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 345940,
+        "title": "The Meg",
+        "imdb_id": "tt4779682",
+        "budget": 150000000,
+        "revenue": 530517320,
+        "release_date": "2018-08-09",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 49521,
+        "title": "Man of Steel",
+        "imdb_id": "tt0770828",
+        "budget": 225000000,
+        "revenue": 668045518,
+        "release_date": "2013-06-12",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 137113,
+        "title": "Edge of Tomorrow",
+        "imdb_id": "tt1631867",
+        "budget": 178000000,
+        "revenue": 370541256,
+        "release_date": "2014-05-27",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 577922,
+        "title": "Tenet",
+        "imdb_id": "tt6723592",
+        "budget": 205000000,
+        "revenue": 365304105,
+        "release_date": "2020-08-22",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 185,
+        "title": "A Clockwork Orange",
+        "imdb_id": "tt0066921",
+        "budget": 2200000,
+        "revenue": 27033812,
+        "release_date": "1971-12-19",
+        "genres": [
+            "Science Fiction",
+            "Crime"
+        ]
+    },
+    {
+        "id": 76757,
+        "title": "Jupiter Ascending",
+        "imdb_id": "tt1617661",
+        "budget": 176000000,
+        "revenue": 184000000,
+        "release_date": "2015-02-04",
+        "genres": [
+            "Science Fiction",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    {
+        "id": 379686,
+        "title": "Space Jam: A New Legacy",
+        "imdb_id": "tt3554046",
+        "budget": 150000000,
+        "revenue": 163692228,
+        "release_date": "2021-07-08",
+        "genres": [
+            "Family",
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 686,
+        "title": "Contact",
+        "imdb_id": "tt0118884",
+        "budget": 90000000,
+        "revenue": 171120329,
+        "release_date": "1997-07-11",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 274855,
+        "title": "Geostorm",
+        "imdb_id": "tt1981128",
+        "budget": 120000000,
+        "revenue": 221600160,
+        "release_date": "2017-10-12",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 1635,
+        "title": "The Island",
+        "imdb_id": "tt0399201",
+        "budget": 126000000,
+        "revenue": 162949164,
+        "release_date": "2005-07-21",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 6950,
+        "title": "Outbreak",
+        "imdb_id": "tt0114069",
+        "budget": 50000000,
+        "revenue": 189900000,
+        "release_date": "1995-03-10",
+        "genres": [
+            "Action",
+            "Drama",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 415,
+        "title": "Batman & Robin",
+        "imdb_id": "tt0118688",
+        "budget": 125000000,
+        "revenue": 238207122,
+        "release_date": "1997-06-20",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 644,
+        "title": "A.I. Artificial Intelligence",
+        "imdb_id": "tt0212720",
+        "budget": 100000000,
+        "revenue": 235926552,
+        "release_date": "2001-06-29",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 9739,
+        "title": "Demolition Man",
+        "imdb_id": "tt0106697",
+        "budget": 57000000,
+        "revenue": 58055768,
+        "release_date": "1993-10-08",
+        "genres": [
+            "Crime",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 44912,
+        "title": "Green Lantern",
+        "imdb_id": "tt1133985",
+        "budget": 200000000,
+        "revenue": 219851172,
+        "release_date": "2011-06-14",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 49047,
+        "title": "Gravity",
+        "imdb_id": "tt1454468",
+        "budget": 105000000,
+        "revenue": 723192705,
+        "release_date": "2013-10-03",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Drama"
+        ]
+    },
+    {
+        "id": 11411,
+        "title": "Superman IV: The Quest for Peace",
+        "imdb_id": "tt0094074",
+        "budget": 17000000,
+        "revenue": 36681020,
+        "release_date": "1987-07-24",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1452,
+        "title": "Superman Returns",
+        "imdb_id": "tt0348150",
+        "budget": 223000000,
+        "revenue": 391081192,
+        "release_date": "2006-06-28",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Mars Attacks!",
+        "imdb_id": "tt0116996",
+        "budget": 70000000,
+        "revenue": 101371017,
+        "release_date": "1996-12-13",
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 2135,
+        "title": "The Time Machine",
+        "imdb_id": "tt0268695",
+        "budget": 80000000,
+        "revenue": 123700000,
+        "release_date": "2002-03-04",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 39538,
+        "title": "Contagion",
+        "imdb_id": "tt1598778",
+        "budget": 60000000,
+        "revenue": 137551594,
+        "release_date": "2011-09-08",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 696506,
+        "title": "Mickey 17",
+        "imdb_id": "tt12299608",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2025-01-31",
+        "genres": [
+            "Science Fiction",
+            "Fantasy",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 55931,
+        "title": "The Animatrix",
+        "imdb_id": "tt0328832",
+        "budget": 5000000,
+        "revenue": 68000000,
+        "release_date": "2003-05-09",
+        "genres": [
+            "Animation",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 2614,
+        "title": "Innerspace",
+        "imdb_id": "tt0093260",
+        "budget": 27000000,
+        "revenue": 25900000,
+        "release_date": "1987-07-01",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 8487,
+        "title": "Wild Wild West",
+        "imdb_id": "tt0120891",
+        "budget": 170000000,
+        "revenue": 222104681,
+        "release_date": "1999-06-30",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Science Fiction",
+            "Western"
+        ]
+    },
+    {
+        "id": 8914,
+        "title": "Deep Blue Sea",
+        "imdb_id": "tt0149261",
+        "budget": 60000000,
+        "revenue": 164700000,
+        "release_date": "1999-07-28",
+        "genres": [
+            "Action",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 15301,
+        "title": "Twilight Zone: The Movie",
+        "imdb_id": "tt0086491",
+        "budget": 10000000,
+        "revenue": 29450920,
+        "release_date": "1983-06-24",
+        "genres": [
+            "Horror",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 9922,
+        "title": "The Postman",
+        "imdb_id": "tt0119925",
+        "budget": 80000000,
+        "revenue": 17626234,
+        "release_date": "1997-12-25",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 9320,
+        "title": "The Avengers",
+        "imdb_id": "tt0118661",
+        "budget": 60000000,
+        "revenue": 48600000,
+        "release_date": "1998-08-13",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 579047,
+        "title": "Reminiscence",
+        "imdb_id": "tt3272066",
+        "budget": 68000000,
+        "revenue": 18717947,
+        "release_date": "2021-08-18",
+        "genres": [
+            "Mystery",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 945956,
+        "title": "I Am Legend 2",
+        "imdb_id": "tt18412222",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 9425,
+        "title": "Soldier",
+        "imdb_id": "tt0120157",
+        "budget": 75000000,
+        "revenue": 14594226,
+        "release_date": "1998-10-23",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 58244,
+        "title": "Upside Down",
+        "imdb_id": "tt1374992",
+        "budget": 60000000,
+        "revenue": 22187813,
+        "release_date": "2012-09-27",
+        "genres": [
+            "Romance",
+            "Science Fiction",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 12180,
+        "title": "Star Wars: The Clone Wars",
+        "imdb_id": "tt1185834",
+        "budget": 8500000,
+        "revenue": 68282844,
+        "release_date": "2008-08-05",
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 624479,
+        "title": "Superman II: The Richard Donner Cut",
+        "imdb_id": "tt0839995",
+        "budget": 54000000,
+        "revenue": 0,
+        "release_date": "2006-11-02",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 10326,
+        "title": "Forever Young",
+        "imdb_id": "tt0104291",
+        "budget": 20000000,
+        "revenue": 128000000,
+        "release_date": "1992-12-16",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Drama",
+            "Science Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "id": 492336,
+        "title": "Deep Blue Sea 2",
+        "imdb_id": "tt7086706",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2018-04-17",
+        "genres": [
+            "Action",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 10540,
+        "title": "Outland",
+        "imdb_id": "tt0082869",
+        "budget": 18000000,
+        "revenue": 17374595,
+        "release_date": "1981-05-22",
+        "genres": [
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": 42194,
+        "title": "Tekken",
+        "imdb_id": "tt0411951",
+        "budget": 30000000,
+        "revenue": 967000,
+        "release_date": "2010-03-20",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 9278,
+        "title": "Freejack",
+        "imdb_id": "tt0104299",
+        "budget": 30000000,
+        "revenue": 17129026,
+        "release_date": "1992-01-17",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": 11071,
+        "title": "Them!",
+        "imdb_id": "tt0047573",
+        "budget": 23000000,
+        "revenue": 0,
+        "release_date": "1954-06-16",
+        "genres": [
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 5491,
+        "title": "Battlefield Earth",
+        "imdb_id": "tt0185183",
+        "budget": 44000000,
+        "revenue": 29725663,
+        "release_date": "2000-05-12",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 10077,
+        "title": "A Sound of Thunder",
+        "imdb_id": "tt0318081",
+        "budget": 80000000,
+        "revenue": 11700000,
+        "release_date": "2005-05-15",
+        "genres": [
+            "Thriller",
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ]
+    },
+    {
+        "id": 573531,
+        "title": "Halo Legends",
+        "imdb_id": "tt1480660",
+        "budget": 0,
+        "revenue": 11000000,
+        "release_date": "2010-02-16",
+        "genres": [
+            "Animation",
+            "War",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 10153,
+        "title": "Sphere",
+        "imdb_id": "tt0120184",
+        "budget": 80000000,
+        "revenue": 37020277,
+        "release_date": "1998-02-13",
+        "genres": [
+            "Science Fiction",
+            "Mystery",
+            "Thriller",
+            "Horror"
+        ]
+    },
+    {
+        "id": 10341,
+        "title": "Until the End of the World",
+        "imdb_id": "tt0101458",
+        "budget": 23000000,
+        "revenue": 0,
+        "release_date": "1991-09-12",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 245703,
+        "title": "Midnight Special",
+        "imdb_id": "tt2649554",
+        "budget": 18000000,
+        "revenue": 7112282,
+        "release_date": "2016-02-18",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 4722,
+        "title": "Body Snatchers",
+        "imdb_id": "tt0106452",
+        "budget": 13000000,
+        "revenue": 428868,
+        "release_date": "1993-06-09",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 11542,
+        "title": "Altered States",
+        "imdb_id": "tt0080360",
+        "budget": 15000000,
+        "revenue": 19853892,
+        "release_date": "1980-12-25",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 8870,
+        "title": "Red Planet",
+        "imdb_id": "tt0199753",
+        "budget": 80000000,
+        "revenue": 33463969,
+        "release_date": "2000-11-10",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 2687,
+        "title": "Memoirs of an Invisible Man",
+        "imdb_id": "tt0104850",
+        "budget": 40000000,
+        "revenue": 14358033,
+        "release_date": "1992-02-28",
+        "genres": [
+            "Science Fiction",
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "id": 636,
+        "title": "THX 1138",
+        "imdb_id": "tt0066434",
+        "budget": 777000,
+        "revenue": 2437000,
+        "release_date": "1971-03-11",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "id": 46878,
+        "title": "The Swarm",
+        "imdb_id": "tt0078350",
+        "budget": 21000000,
+        "revenue": 7700000,
+        "release_date": "1978-07-14",
+        "genres": [
+            "Thriller",
+            "Science Fiction",
+            "Horror"
+        ]
+    },
+    {
+        "id": 521007,
+        "title": "Superintelligence",
+        "imdb_id": "tt7178640",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2020-12-11",
+        "genres": [
+            "Comedy",
+            "Science Fiction",
+            "Romance"
+        ]
+    },
+    {
+        "id": 870360,
+        "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+        "imdb_id": "tt15352542",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2024-02-28",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 11591,
+        "title": "The Man with Two Brains",
+        "imdb_id": "tt0085894",
+        "budget": 10100000,
+        "revenue": 0,
+        "release_date": "1983-06-10",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 24750,
+        "title": "Time After Time",
+        "imdb_id": "tt0080025",
+        "budget": 0,
+        "revenue": 13000000,
+        "release_date": "1979-09-28",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Comedy",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 8854,
+        "title": "Steel",
+        "imdb_id": "tt0120207",
+        "budget": 16000000,
+        "revenue": 1686429,
+        "release_date": "1997-08-15",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "id": 5172,
+        "title": "The Astronaut Farmer",
+        "imdb_id": "tt0469263",
+        "budget": 13000000,
+        "revenue": 11130889,
+        "release_date": "2007-02-23",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "id": 71172,
+        "title": "Gintama: The Movie",
+        "imdb_id": "tt1636780",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2010-04-24",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Science Fiction",
+            "Animation"
+        ]
+    },
+    {
+        "id": 33278,
+        "title": "Deadly Friend",
+        "imdb_id": "tt0090917",
+        "budget": 0,
+        "revenue": 8988731,
+        "release_date": "1986-10-10",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 28153,
+        "title": "It's Alive",
+        "imdb_id": "tt0071675",
+        "budget": 500000,
+        "revenue": 7100000,
+        "release_date": "1974-04-26",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 23521,
+        "title": "Daffy Duck's Quackbusters",
+        "imdb_id": "tt0094939",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1988-09-24",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 64956,
+        "title": "Inception: The Cobol Job",
+        "imdb_id": "tt1790736",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2010-12-07",
+        "genres": [
+            "Animation",
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 9520,
+        "title": "The Thief Lord",
+        "imdb_id": "tt0430674",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2006-01-04",
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": 21874,
+        "title": "Looker",
+        "imdb_id": "tt0082677",
+        "budget": 0,
+        "revenue": 3282232,
+        "release_date": "1981-10-30",
+        "genres": [
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 3574,
+        "title": "Doctor X",
+        "imdb_id": "tt0022827",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1932-08-03",
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Mystery",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 27115,
+        "title": "The Walking Dead",
+        "imdb_id": "tt0028478",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1936-03-01",
+        "genres": [
+            "Crime",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 9773,
+        "title": "Alien Autopsy",
+        "imdb_id": "tt0466664",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2006-04-07",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 47296,
+        "title": "Rainbow Brite and the Star Stealer",
+        "imdb_id": "tt0089877",
+        "budget": 0,
+        "revenue": 4900000,
+        "release_date": "1985-11-15",
+        "genres": [
+            "Animation",
+            "Family",
+            "Science Fiction",
+            "Fantasy",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 3575,
+        "title": "The Return of Doctor X",
+        "imdb_id": "tt0031851",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1939-11-23",
+        "genres": [
+            "Science Fiction",
+            "Horror",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 32053,
+        "title": "The Ultimate Warrior",
+        "imdb_id": "tt0073835",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1975-10-02",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 10001,
+        "title": "Young Einstein",
+        "imdb_id": "tt0096486",
+        "budget": 24900000,
+        "revenue": 5000000,
+        "release_date": "1988-12-15",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 32940,
+        "title": "The Terminal Man",
+        "imdb_id": "tt0072267",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1974-06-19",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 340023,
+        "title": "Mad Max: The Wasteland",
+        "imdb_id": "tt4575512",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 67409,
+        "title": "Duck Dodgers in the 24½th Century",
+        "imdb_id": "tt0045709",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1953-07-25",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 43252,
+        "title": "The Story of Mankind",
+        "imdb_id": "tt0051016",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1957-11-08",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 44000,
+        "title": "Trog",
+        "imdb_id": "tt0066492",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1970-10-24",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 35139,
+        "title": "Teenagers from Outer Space",
+        "imdb_id": "tt0053337",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1959-06-01",
+        "genres": [
+            "Crime",
+            "Horror",
+            "Science Fiction",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 101515,
+        "title": "Mad as a Mars Hare",
+        "imdb_id": "tt0057272",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1963-10-19",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1258359,
+        "title": "Ready Player Two",
+        "imdb_id": null,
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 83790,
+        "title": "Haredevil Hare",
+        "imdb_id": "tt0040422",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1948-07-24",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 55792,
+        "title": "Simon",
+        "imdb_id": "tt0081518",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1980-02-01",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 329237,
+        "title": "Gigantis, the Fire Monster",
+        "imdb_id": "tt9247554",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1959-05-21",
+        "genres": [
+            "Action",
+            "Horror",
+            "Science Fiction",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 389703,
+        "title": "Rise",
+        "imdb_id": "tt2140341",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "2016-02-19",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 100345,
+        "title": "Rocket Squad",
+        "imdb_id": "tt0049686",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1956-03-10",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 146731,
+        "title": "Hot Cross Bunny",
+        "imdb_id": "tt0040450",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1948-08-21",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 84587,
+        "title": "The Hasty Hare",
+        "imdb_id": "tt0044692",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1952-06-07",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 188805,
+        "title": "Rocket-bye Baby",
+        "imdb_id": "tt0049685",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1956-08-04",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1268926,
+        "title": "Matrix 5",
+        "imdb_id": "tt31998838",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 43009,
+        "title": "Red Nightmare",
+        "imdb_id": "tt0050261",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1962-02-11",
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1205241,
+        "title": "Alien Legion",
+        "imdb_id": "tt1552017",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 197746,
+        "title": "Invasion of the Bunny Snatchers",
+        "imdb_id": "tt0104527",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "1992-05-27",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 413749,
+        "title": "Logan's Run",
+        "imdb_id": "tt0402344",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 1239253,
+        "title": "Attack of the 50 Foot Woman",
+        "imdb_id": "tt31122436",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1069852,
+        "title": "Them!",
+        "imdb_id": "tt25602866",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 616768,
+        "title": "The Forever War",
+        "imdb_id": "tt1307468",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 738606,
+        "title": "Nemesis",
+        "imdb_id": "tt1705774",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ]
+    },
+    {
+        "id": 616438,
+        "title": "The Shower",
+        "imdb_id": "tt4975928",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": 892896,
+        "title": "Hyperion",
+        "imdb_id": "tt1213645",
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 661528,
+        "title": "The New World",
+        "imdb_id": null,
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": 1388497,
+        "title": "Untitled Forbidden Planet Remake",
+        "imdb_id": null,
+        "budget": 0,
+        "revenue": 0,
+        "release_date": "",
+        "genres": [
+            "Science Fiction"
+        ]
+    }
+]
