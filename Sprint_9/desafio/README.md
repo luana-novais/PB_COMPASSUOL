@@ -1,8 +1,8 @@
 # Entrega 4
 
-Durante esta etapa, foi necessário criar as tabelas no AWS Glue Data Catalog, com base no modelo multidimencional. Essas estruturas foram preparadas para disponibilizar os dados à ferramenta de visualização (Amazon QuickSight), que será utilizada na próxima Sprint. O processamento envolveu a utilização do Apache Spark para transformar os dados da camada Trusted e armazená-los na camada Refined, com os dados persistidos no formato Parquet, e particionados quando necessário, conforme os requisitos de visualização definidos.
+Durante esta etapa, foi necessário criar as tabelas no AWS Glue Data Catalog, com base no modelo multidimencional. Essas estruturas foram preparadas para disponibilizar os dados à ferramenta de visualização (Amazon QuickSight), que será utilizada na próxima Sprint. O processamento envolveu transformar os dados da camada Trusted e armazená-los na camada Refined, com os dados persistidos no formato Parquet.
 
-Primeiramente, foi necessário entender o modelo de dados solicitado, que incluiu a aplicação de uma modelagem multidimensional. Isso significa que os dados deveriam ser organizados em tabelas de fatos e dimensões, permitindo análises detalhadas de acordo com diversas variáveis, como tempo, localização e outras métricas relevantes. A baixo segue como ficou o modelo criado para usar como base para criação das tabelas no AWS Glue: 
+Primeiramente, foi solicitado uma modelagem multidimensional. Isso significa que os dados deveriam ser organizados em tabelas de fatos e dimensões, permitindo análises detalhadas de acordo com diversas variáveis. A baixo segue como ficou o modelo criado para usar como base para criação das tabelas no AWS Glue: 
 ![modelo dimensional](../evidencias/modelo_dimensional.png)
 
 Com base nesse modelo, criei as tabelas necessárias no AWS Glue Data Catalog, utilizando o job, considerando as necessidades de visualização e consulta futura. A baixo o código com as explicações: 
@@ -29,7 +29,7 @@ A tabela de fato, **fato_filmes**, foi criada ao unir as dimensões `dim_genero`
 
 As tabelas de dimensões e a tabela de fato foram gravadas na camada **Refined** do data lake em formato **Parquet**, utilizando o comando `.write.mode("overwrite")`.
 
-Após a criação e organização das tabelas no Glue Data Catalog, foi realizado o processamento dos dados. Utilizando o Apache Spark, transformei os dados da camada **Trusted** para a camada **Refined**, de acordo com o modelo de dados especificado. Durante esse processo, os dados foram persistidos no formato Parquet, garantindo maior eficiência em termos de armazenamento e desempenho nas consultas.
+Após a criação e organização das tabelas no Glue Data Catalog, foi realizado o processamento dos dados. Utilizando o Apache Spark, transformei os dados da camada **Trusted** para a camada **Refined**, de acordo com o modelo de dados criado. Durante esse processo, os dados foram persistidos no formato Parquet, garantindo maior eficiência em termos de armazenamento e desempenho nas consultas.
 
 Com essas transformações e a estruturação dos dados, a camada **Refined** ficou preparada para receber e organizar as informações de forma eficiente, facilitando a extração de insights. Além disso, os dados agora estão prontos para serem consumidos no **Amazon QuickSight** na próxima etapa.
 
