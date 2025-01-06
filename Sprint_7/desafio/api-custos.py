@@ -22,7 +22,7 @@ discover_params = {
 # Função para buscar filmes de sci-fi
 def fetch_sci_fi_movies():
     all_movies = []
-    for page in range(1, 5):  # Pegando 5 páginas de resultados
+    for page in range(1, 5):  
         discover_params["page"] = page
         try:
             response = requests.get(BASE_URL_DISCOVER, params=discover_params)
