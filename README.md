@@ -17,7 +17,7 @@
 
 
 
-## 📘 Aprendizados durante o PB
+## 📘 Aprendizados durante o Programa de Bolsas - Compass UOL
 
 #### **Linux:**
 
