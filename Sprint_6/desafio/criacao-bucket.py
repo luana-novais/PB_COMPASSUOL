@@ -6,7 +6,8 @@ bucket_name = 'data-lake-luana-novais'
 movies_file = '/app/Sprint_6/desafio/movies.csv'
 series_file = '/app/Sprint_6/desafio/series.csv'
 
-session = boto3.Session(profile_name='779846783629_AdministratorAccess')
+session = boto3.Session(profile_name='num_AdministratorAccess')  
+#obs: as credenciais não devem ficar expostar no código, correto é configurar no terminal (~/.aws/credentials)
 
 s3 = session.client('s3')
 
